@@ -2,6 +2,8 @@
 
 **O.R.A.C.** is a small, deliberately curious multitool built around the ESP32-2432S028 (CYD) touchscreen computer.
 
+![O.R.A.C.](ORAC.jpg)
+
 The project grew from the idea of making a device that feels less like a conventional utility gadget and more like a **small electronic companion**: useful tools, experiments, games, sound, visualisations and a little personality, all living together in one self-contained machine.
 
 > **O.R.A.C. is an experiment in emergence — useful things, playful things and strange things sharing the same little computer.**
